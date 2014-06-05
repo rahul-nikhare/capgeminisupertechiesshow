@@ -1,0 +1,3 @@
+capgeminisupertechiesshow
+=========================
+git init
