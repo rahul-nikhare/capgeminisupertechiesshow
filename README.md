@@ -1,3 +1,0 @@
-capgeminisupertechiesshow
-=========================
-git init
